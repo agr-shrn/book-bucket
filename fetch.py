@@ -2,7 +2,7 @@ import os
 import json
 
 from facepy import GraphAPI
-access_token = "CAACEdEose0cBAMCjAYqfPB4ZB9BSxpcRVPKfdgOnr1pE2nVkQn6ZBoTNUt7uz2cEQho46OZABekn95ur8Ioew9DPUmTdUgd21XBiW6fcsLTs7sp6lmNJeGZAQlpZCpQCVUjXnvBcH19znSXyO8mQWN8synWCwadfqGQesZCYXkSBj2sibD7ApD1Y58r3egPyL8zOnBTwW18CV7uZAZCDm8c9"
+access_token = ""
 graph = GraphAPI(access_token)
 
 folder={};
